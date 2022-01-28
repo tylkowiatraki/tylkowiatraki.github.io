@@ -1,0 +1,26 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+
+.navigation{
+    width: 100%;
+    height: 80px;
+    background-color: #ff00fe;
+}
+.content-gif-fan{
+    width: 100%;
+    height: 500px;
+    background-color: green;
+}
+.description{
+    width: 100%;
+    height: 80vh;
+    background-color: red;
+}
+.footernari{
+    width: 100%;
+    height: 10vh;
+    margin-top: 10vh;
+    background-color: yellow;
+}
